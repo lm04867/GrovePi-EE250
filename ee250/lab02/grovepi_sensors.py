@@ -1,8 +1,10 @@
 """ EE 250L Lab 02: GrovePi Sensors
 
 List team members here.
+Leonardo Martinez
 
 Insert Github repository link here.
+https://github.com/usc-ee250-fall2021/GrovePi-EE250.git
 """
 
 """python3 interpreters in Ubuntu (and other linux distros) will look in a 
